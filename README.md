@@ -99,7 +99,7 @@ Your transcribed speech appears here.
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Hamshini priya S**
 
 ## 📄 License
 
